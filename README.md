@@ -1,2 +1,2 @@
 # saiyanshivvy.github.io
-Currently undergoing rehaul
+This branch contains the old version which used the [Freelancer Template](https://startbootstrap.com/themes/freelancer/) for Bootstrap
